@@ -1,4 +1,4 @@
-# fast5surfer
+# fast5surfer (beta version)
 ![Logo](https://user-images.githubusercontent.com/41163796/123153288-ca8dad00-d465-11eb-935d-f2550d7c2fc1.jpg)
 
 A custom GUI based software tool for the handling, exploration and visualization of fast5 produced by sequencing instrumentations of the Oxford NanoPore Technology.
@@ -16,5 +16,6 @@ The content of the selected fast5 file will be showed on the top of the right pa
 Either Attributes (metadata of groups and datasets elements of the fast5 file), Data and the plot will be reproduced on the bottom of the righ panel named "Fast5 File".
 The plot tab is available only for the fast5 dataset elements containing the raw ionic current signal.
 
+**To note:** the software is a beta version and is intentended for hobby or personal purpose. Its perfect functioning is not guaranteed and no responsibility is assumed for the use of the software.
 
 https://user-images.githubusercontent.com/41163796/123151611-ed1ec680-d463-11eb-98d0-5005fe2c6ec3.mp4
